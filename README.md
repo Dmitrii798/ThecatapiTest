@@ -175,4 +175,4 @@ MIT
 
 **Твоё Имя**
 
-- GitHub: [@ВАШ_ЛОГИН](https://github.com/ВАШ_ЛОГИН)
+- GitHub: [@Dmitrii798](https://github.com/Dmitrii798)
