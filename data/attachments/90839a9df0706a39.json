@@ -1,1 +1,0 @@
-{"statusCode":400,"timestamp":"2026-09-15T20:23:06.230Z","path":"/v1/favourites","message":"DUPLICATE_FAVOURITE - favourites are unique for account + image_id + sub_id"}

@@ -1,1 +1,0 @@
-{"statusCode":400,"timestamp":"2026-09-15T20:23:04.974Z","path":"/v1/favourites","message":["sub_id must be a string"],"error":"Bad Request"}
